@@ -1,0 +1,11 @@
+Package: dynamodb
+Version: 1.0-2
+Architecture: amd64
+Source: dynamodb
+Maintainer: Dean Galvin <deangalvin3@gmail.com>
+Section: database
+Priority: optional
+Installed-Size: 34168
+Description: Amazon DynamoDB
+ This will add the dynamodb command and service to
+ start dynamodb locally.
