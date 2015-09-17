@@ -1,0 +1,3 @@
+[submodule "dynamodb"]
+	path = dynamodb
+	url = ssh://aur@aur.archlinux.org/dynamodb.git
